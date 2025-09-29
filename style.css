@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  text-align: center;
+  padding: 30px;
+}
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  text-align: center;
+}
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+  text-align: left;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type="number"] {
+  width: 300px;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.buttons {
+  margin: 25px 0;
+}
+button {
+  width: 60px;
+  height: 50px;
+  margin: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  background: #004aad;
+  color: white;
+  cursor: pointer;
+}
+button:hover {
+  background: #00357a;
+}
+.hasil-box {
+  border: 1px solid #000;
+  width: 300px;
+  margin: 0 auto;
+  padding: 15px;
+  margin-top: 20px;
+}
+.hasil-box h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+.hasil-box p {
+  margin-top: 10px;
+  font-size: 22px;
+}
